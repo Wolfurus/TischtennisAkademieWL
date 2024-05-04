@@ -1,0 +1,10 @@
+{
+    "html.format.contentUnformatted": "",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "files.autoSaveWhenNoErrors": true,
+    "editor.defaultFormatter": "Angular.ng-template",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
